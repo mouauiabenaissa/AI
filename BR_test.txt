@@ -1,0 +1,9 @@
+r1 si A et B alors F
+r2 si F et H alors I
+r3 si D et H et G alors A
+r4 si O et G alors H 
+r5 si E et H alors B
+r6 si G et A alors B
+r7 si G et H alors p 
+r8 si G et H alors Q
+r9 si D et O et G alors J

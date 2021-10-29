@@ -1,0 +1,7 @@
+r1 si a alors e 
+r2 si b alors d
+r3 si h alors a 
+r4 si e et g alors c 
+r5 si e et k alors b
+r6 si d et e et k alors c 
+r7 si g et k et f alors a
